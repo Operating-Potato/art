@@ -1,10 +1,11 @@
 title: Charles' Drawings
 email: c04511234@gmail.com
 description: This is where I post some of my drawings!
-baseurl: ''
+# baseurl: ''
 url: ''
 twitter_username: jekyllrb
 github_username: jekyll
 theme: minima
+remote-theme: minima
 plugins:
   - jekyll-feed
