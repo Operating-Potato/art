@@ -3,8 +3,8 @@ email: c04511234@gmail.com
 description: This is where I post some of my drawings!
 # baseurl: ''
 url: ''
-twitter_username: jekyllrb
-github_username: jekyll
+twitter_username: minima
+github_username: minima
 theme: mere
 remote-theme: mere
 plugins:

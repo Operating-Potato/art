@@ -37,4 +37,3 @@ gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
 
 gem 'jekyll-admin', group: :jekyll_plugins
-gem 'mere-blog-theme', '~> 1.0', '>= 1.0.1'
