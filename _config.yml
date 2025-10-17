@@ -1,11 +1,10 @@
 title: Charles' Drawings
 email: c04511234@gmail.com
 description: This is where I post some of my drawings!
-# baseurl: ''
+#baseurl: ''
 url: 'https://operating-potato.github.io/art'
-twitter_username: minima
-github_username: minima
-theme: mere-blog-theme
-remote-theme: mere-blog-theme
+github_username: Operating-Potato
+theme: minima
+remote-theme: minima
 plugins:
   - jekyll-feed
