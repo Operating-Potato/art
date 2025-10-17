@@ -5,7 +5,7 @@ description: This is where I post some of my drawings!
 url: ''
 twitter_username: minima
 github_username: minima
-theme: mere
-remote-theme: mere
+theme: mere-blog-theme
+remote-theme: mere-blog-theme
 plugins:
   - jekyll-feed
