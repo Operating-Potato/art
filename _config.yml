@@ -2,6 +2,7 @@ title: Magpie Corner
 email: c04511234@gmail.com
 description: This is the bird blog…
 author: Charles Ai
+baseurl: '/birds'
 url: 'https://operating-potato.github.io/birds'
 github_username: Operating-Potato
 theme: minima
