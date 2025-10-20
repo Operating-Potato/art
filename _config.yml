@@ -3,7 +3,7 @@ email: c04511234@gmail.com
 description: This is the bird blog…
 author: Charles Ai
 baseurl: '/birds'
-url: 'https://operating-potato.github.io/birds'
+url: 'https://operating-potato.github.io'
 github_username: Operating-Potato
 theme: minima
 plugins:
