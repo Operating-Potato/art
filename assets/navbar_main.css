@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+Mono:wght@100..900&display=swap');
+@import url(/assets/navbar/page_highlights/home.css);
 :root {
     --sidebar-colour: rgba(211,211,211,0.7);
     --sidebar-gradient: linear-gradient(rgba(230,230,230,0.5), rgba(150,150,150,0.5));
@@ -18,6 +20,7 @@
 
 
 /*navigation bar*/
+
 
 .nav_container {
     z-index: 200;
@@ -42,8 +45,8 @@
     backdrop-filter: blur(5px);
     box-shadow: 0px 2px 20px rgba(0,0,0,0.5);
     border-radius: 0 20px 20px 0;
-    font-family: "monospace" !important;
-    font-size:12px;
+    font-family: "Noto Sans Mono" !important;
+    font-size: 12px;
 }
 .navbar {
     align-content: flex-start;
@@ -53,26 +56,17 @@
     top:0;
     max-width:200px;
     height: auto;
-    padding:1 em 0 0 0;
-    line-height: normal;
-
-    h2 {
-        font-weight: bold;
-        line-height: 1.4em;
-    }
 }
 
 .box {
     align-content: center;
     height: 50px;
     max-width: 200px;
-    line-height:0;
+    padding-top: 0%;
     padding-left:2em;
     text-align: start;
 
-    p {
-        margin:0;
-    }
+    p {margin:0;}
 }
 
 a.navlink {
@@ -81,8 +75,9 @@ a.navlink {
 }
 
 #site_title {
-    padding: 20px;
-    padding-top: 35px;
+    padding: 35px 20px 20px 20px;
+    line-height: normal;
+    h2 {font-weight: bold;}
 }
 
 #site_title a {
@@ -109,7 +104,6 @@ a.navlink {
 #sublink:hover {font-weight:bold;}
 
 #screen-narrow {display:none;}
-
 
 
 @media only screen and (max-width: 720px) {
@@ -149,9 +143,9 @@ a.navlink {
     #site_title {display:none;}
     #sublink_container {display:none;}
 
-    #screen-narrow {display:block;}
-    #screen-wide {display:none;}
+    #screen-wide {}
 }
+
 
 
 @media only screen and (max-width: 323px) {
@@ -173,9 +167,7 @@ a.navlink {
 
 
 
-
-
-#home {
+#home:hover {
     background-image: 
         linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), 
         url("/assets/navbar/home_navbar.png");
@@ -185,15 +177,15 @@ a.navlink {
     color: white;
 }
 
-#games:hover {
-    background-image: 
-        linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), 
-        url("/assets/navbar/games_navbar.png");
-    background-color: white;
-    background-size: cover;
-    background-position: center;
-    color: white;
-}
+            #games:hover {
+                background-image: 
+                    linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), 
+                    url("/assets/navbar/games_navbar.png");
+                background-color: white;
+                background-size: cover;
+                background-position: center;
+                color: white;
+            }
 
 #photos:hover {
     background-image: 
