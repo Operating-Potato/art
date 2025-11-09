@@ -182,7 +182,7 @@ a.navlink {
 #home {
     background-image: 
         linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), 
-        url("/assets/navbar/home_navbar.png");
+        url("https://operating-potato.github.io/assets/navbar/home_navbar.png");
     background-size: cover;
     background-color: white;
     background-position: center;
@@ -192,7 +192,7 @@ a.navlink {
 #games:hover {
     background-image: 
         linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), 
-        url("/assets/navbar/games_navbar.png");
+        url("https://operating-potato.github.io/assets/navbar/games_navbar.png");
     background-color: white;
     background-size: cover;
     background-position: center;
@@ -202,7 +202,7 @@ a.navlink {
 #photos:hover {
     background-image: 
         linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), 
-        url("/assets/navbar/photos_navbar.jpg");
+        url("https://operating-potato.github.io/assets/navbar/photos_navbar.jpg");
     background-size: cover;
     background-color: white;
     background-position: center;
@@ -212,7 +212,7 @@ a.navlink {
 #article:hover {
     background-image: 
         linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
-        url("/assets/navbar/articles_navbar.png");
+        url("https://operating-potato.github.io/assets/navbar/articles_navbar.png");
     background-size: cover;
     background-position: center;
     background-color: white;
@@ -222,7 +222,7 @@ a.navlink {
 #aquarium:hover {
     background-image: 
         linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.2)), 
-        url("/assets/navbar/aquarium_navbar.png");
+        url("https://operating-potato.github.io/assets/navbar/aquarium_navbar.png");
     background-size: cover;
     background-color: white;
     background-position: center;
