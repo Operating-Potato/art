@@ -1,6 +1,6 @@
-title: Magpie Corner
+title: Species Accounts
 email: c04511234@gmail.com
-description: This is the bird blog…
+description: 
 author: Charles Ai
 baseurl: '/birds'
 url: 'https://operating-potato.github.io'
@@ -8,6 +8,3 @@ github_username: Operating-Potato
 theme: minima
 plugins:
   - jekyll-feed
-header_pages:
-    - about.markdown
-    - species/index.md
