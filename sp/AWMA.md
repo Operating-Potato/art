@@ -16,3 +16,5 @@ __Voice:__ somewhat similar to Black-billed Magpie, harsh "skraaa."
 __Behaviour:__ very gregarious. Hops and runs along ground while foraging, and can also be found in trees. Relatively tame around humans, and will take scraps and offerings where accustomed.
 
 __Known whereabouts:__ forests, parks, trees, and city buildings. Typically found at least somewhat near tree cover.
+
+__Seen in:__ Beijing, Harbin
