@@ -14,8 +14,9 @@
     --bottom-margin: 0px;
     margin-left: 220px;
     margin-right: 20px;
-    padding-bottom: var(--bottom-margin);
 }
+
+.wrapper {padding-bottom: var(--bottom-margin);}
 
 
 
@@ -112,7 +113,6 @@ a.navlink {
 
         margin-left: 0;
         margin-right:0;
-        height: calc(100% - var(--bottom-margin));
     }
     .nav_container {
         position: fixed;
