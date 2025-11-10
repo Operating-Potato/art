@@ -1,15 +1,14 @@
 ---
-title: The worst field guide ever
+title: Bird notes
 layout: page
 ---
 
-My personal commentation of all the bird species I have seen so far. New species will periodically be added.
+My personal accounts of all the bird species I have seen so far. New species will periodically be added.
 
 ___
 <details style="
 								margin: 10px 0 10px 0;
 								max-width: 500px;
-								box-shadow: rgba(0,0,0,0.2) 0 0px 5px;
 								">
 	<summary>Table of Contents</summary>
 	<ul>
@@ -80,6 +79,7 @@ ___
 ## Nuthatches, Treecreepers, Wrens, & allies {#wrens}
 
 ## Thrushes {#thrushes}
+* [Grey-backed Thrush (*Turdus hortulorum*)](sp/GBTH)
 
 ## Waxwings & allies {#waxwings}
 

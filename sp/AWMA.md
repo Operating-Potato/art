@@ -1,9 +1,18 @@
 ---
 title: Azure-winged Magpie
-layout: page
+layout: species
+bird_category: Jays, magpies, crows, etc.
+binomial_name: Cyanopica cyanus
 ---
-### *Cyanopica cyanus*
-<hr>
-<br>
+
+![Image](images/AWMA.jpg){: .page-photo }
+
 Lively, neatly coloured, and bold, one of my favourite birds. Despite name, the Azure-winged and Iberian magpies are more related to the Canada Jay.
-![Image](images/AWMA.jpg)
+
+__Appearance:__ medium sized, around the length of a small wireless keyboard. Black bill and upper head, giving the appearance of wearing a cap. Rest of head and rump are white, body is otherwise tan. Wings and long tail are a light blue.
+
+__Voice:__ somewhat similar to Black-billed Magpie, harsh "skraaa."
+
+__Behaviour:__ very gregarious. Hops and runs along ground while foraging, and can also be found in trees. Relatively tame around humans, and will take scraps and offerings where accustomed.
+
+__Known whereabouts:__ forests, parks, trees, and city buildings. Typically found at least somewhat near tree cover.

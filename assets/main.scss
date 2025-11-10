@@ -3,13 +3,33 @@
 ---
 
 @import "minima";
-
 body {
-    background-color: #f0eee1;
     font-family: serif;
+    background-color: #f3f3f3;
+    background-image: url("/birds/assets/bgtile.png");
+    background-repeat: repeat;
+    background-size: 500px;
+    height: 100%;
+    flex-flow: column;
+
+    display: block;
+    align-content: center;
+}
+.main {
+    height: 100%;
+    position: relative;
+}
+.page-content {
+    padding:0;
+    height: 100%;
 }
 
-img {border-radius: 10px; margin: 10px 0 10px 0; box-shadow: rgba(0,0,0,0.2) 0 0 5px 3px;}
+.wrapper {
+    box-shadow: 0 0 20px rgba(0,0,0,0.5);
+    padding: 30px;
+    background-color: #f0eee1;
+    height: 100%;
+}
 
 /*header*/
 .site-header {
@@ -46,7 +66,8 @@ a.page-link {
 details {
     border-radius: 5px;
     padding: 0.5em 0.5em 0;
-    background-color: #f2f2f2;
+    background-color: #f9f7ef;
+    border: 1px solid rgb(127, 116, 85);
 }
 
 summary {
@@ -54,7 +75,7 @@ summary {
     margin: -0.5em -0.5em 0;
     padding: 0.5em;
     border-radius: 5px;
-    background-color: #fdfdfd
+    background-color: #ded6c4;
 }
 
 details[open] {
@@ -62,7 +83,25 @@ details[open] {
 }
 
 details[open] summary {
-    border-bottom: 2px solid #e8e8e8;
+    border-radius: 5px 5px 0 0;
     margin-bottom: 0.5em;
 }
 
+/*images*/
+.page-photo {
+    width: 300px;
+    float: right;
+    margin: 0 10px 10px 10px;
+    box-shadow: rgba(0,0,0,0.2) 0 0 5px 3px;
+}
+
+@media only screen and (max-width: 600px) {
+    .page-photo {
+        width: 100%;
+        max-height: 300px;
+        object-fit: cover;
+
+        float: none;
+        margin: 10px 0 10px 0;
+    }
+}
