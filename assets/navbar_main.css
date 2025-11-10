@@ -10,7 +10,7 @@
 
 
 /*padding for rest of page*/
-.main {
+.page-content {
     --bottom-margin: 0px;
     margin-left: 220px;
     margin-right: 20px;
@@ -34,7 +34,7 @@
     bottom:0;
     left:0;
     width: 200px;
-    height: 100%;
+    height: 100dvh;
     flex-wrap: nowrap;
 
 
@@ -107,7 +107,7 @@ a.navlink {
 
 
 @media only screen and (max-width: 720px) {
-    .main {
+    .page-content {
         --bottom-margin: 65px;
 
         margin-left: 0;
