@@ -40,6 +40,7 @@ ___
 	</ul>
 </details>
 ## Waterfowl {#waterfowl}
+* [Mallard (*Anas platyrhynchos*)](sp/MALL.html)
 
 ## Gamefowl {#gamefowl}
 
@@ -50,8 +51,11 @@ ___
 ## Rails {#rails}
 
 ## Shorebirds {#shorebirds}
+* [Willet (*Tringa semipalmata*)](sp/WILL.html)
 
 ## Gulls, Terns, & Skimmers {#gulls}
+* [Ring-billed Gull (*Larus delawarensis*)](sp/RBGU.html)
+
 
 ## Cormorants & Anhingas {#cormorants}
 

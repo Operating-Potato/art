@@ -70,14 +70,15 @@ details {
     border-radius: 5px;
     padding: 0.5em 0.5em 0;
     background-color: #f9f7ef;
-    border: 1px solid rgb(127, 116, 85);
+    border: solid rgb(191, 187, 175);
+    border-width: 0 1px 3px 1px;
 }
 
 summary {
     font-weight: bold;
     margin: -0.5em -0.5em 0;
     padding: 0.5em;
-    border-radius: 5px;
+    border-radius: 5px 5px 3px 3px;
     background-color: #ded6c4;
 }
 
