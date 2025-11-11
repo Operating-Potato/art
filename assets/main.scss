@@ -70,7 +70,7 @@ details {
     border-radius: 5px;
     padding: 0.5em 0.5em 0;
     background-color: #f9f7ef;
-    box-shadow: 0 3px rgb(191, 187, 175);
+    box-shadow: 0 3px 3px rgb(191, 187, 175);
     border-width: 0 1px 3px 1px;
 }
 
@@ -125,7 +125,7 @@ details[open] summary {
 
     details {
         background-color: #585858;
-        border-color: #898989;
+        box-shadow: 0 3px 3px #898989;
     }
     summary {
         background-color: rgb(71, 71, 71);
